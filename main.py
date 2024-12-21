@@ -1,7 +1,7 @@
 from sympy import *
 from math import *
 from graph import *
-from emanager import *
+from manager import *
 
 print(
     "MathOn v1.0.1 2023y/7m/8d (Made By Jake, Use Python)\nType \"help()\", for more information and type \"exit()\", for close console."
