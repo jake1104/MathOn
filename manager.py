@@ -341,4 +341,4 @@ def is_equation_or_function(input_str):
         if len(name) == 1:
             if name in FUNCTIONS:
                 return 'function'
-    return 'equation'  # 기본적으로 방정으로 처리
+    return 'equation'  # 기본적으로 방정식으로 처리
